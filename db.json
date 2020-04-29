@@ -3,14 +3,7 @@
     "data": [
       { "userId": 1, "id": 1, "title": "laboriosam mollitia et enim quasi adipisci quia provident illum", "completed": false },
       { "userId": 1, "id": 2, "title": "236514561456dasdsad156sa1d51sa56d15sa5d dsadsad", "completed": false },
-      { "userId": 2, "id": 3, "title": "fhgfdhdh3 3fdsf456ds4f asdsadasdasdd", "completed": false },
+      { "userId": 2, "id": 3, "title": "fhgfdhdh3 3fdsf456ds4f asdsadasdasdd", "completed": false }
     ],
-  },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
   }
 }
